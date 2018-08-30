@@ -22,6 +22,9 @@ import org.junit.Test;
 
 import java.util.List;
 
+/**
+ * es-java-api索引管理
+ */
 public class TestIndicesAdminClient {
 
     IndicesAdminClient indicesAdminClient;
