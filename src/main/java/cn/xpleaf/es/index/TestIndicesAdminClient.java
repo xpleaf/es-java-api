@@ -1,5 +1,6 @@
-package cn.xpleaf.es.client;
+package cn.xpleaf.es.index;
 
+import cn.xpleaf.es.client.TestClient;
 import com.carrotsearch.hppc.cursors.ObjectObjectCursor;
 import org.elasticsearch.action.admin.indices.alias.IndicesAliasesResponse;
 import org.elasticsearch.action.admin.indices.alias.get.GetAliasesResponse;
