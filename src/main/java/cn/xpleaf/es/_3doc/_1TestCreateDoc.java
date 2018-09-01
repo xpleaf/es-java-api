@@ -141,25 +141,4 @@ public class _1TestCreateDoc {
                                         index, type, id, version, status));
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
