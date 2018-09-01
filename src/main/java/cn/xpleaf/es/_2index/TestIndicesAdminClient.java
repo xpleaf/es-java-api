@@ -1,6 +1,6 @@
-package cn.xpleaf.es.index;
+package cn.xpleaf.es._2index;
 
-import cn.xpleaf.es.client.TestClient;
+import cn.xpleaf.es._1client.TestClient;
 import com.carrotsearch.hppc.cursors.ObjectObjectCursor;
 import org.elasticsearch.action.admin.indices.alias.IndicesAliasesResponse;
 import org.elasticsearch.action.admin.indices.alias.get.GetAliasesResponse;
@@ -20,8 +20,6 @@ import org.elasticsearch.common.collect.ImmutableOpenMap;
 import org.elasticsearch.common.settings.Settings;
 import org.junit.Before;
 import org.junit.Test;
-
-import java.util.List;
 
 /**
  * es-java-api索引管理
