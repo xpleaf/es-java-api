@@ -3,7 +3,7 @@
 
 ### 代码结构
 
-```java
+```
 ├── _1client
 │   └── TestClient.java
 ├── _2index
@@ -29,7 +29,7 @@
 
 > 每一个测试案例对应的内容，在代码中都有详细的注释。
 
-```java
+```
 ├── _1client
 │   └── TestClient.java		P242 代码清单8-1
 ├── _2index					P243 8.5索引管理
